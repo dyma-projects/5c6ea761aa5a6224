@@ -23,7 +23,7 @@ Puis lancer le serveur de développement avec :
 * [X] . Dans le composant 'exercice2', Vous devez utiliser le décorateur Viewchild pour afficher le contenu de "valeur
 " dans le template.
 
-* [ ] . Dans le composant de 'exercice3', utilisez la directive ng-content pour afficher le text contenu entre les
+* [X] . Dans le composant de 'exercice3', utilisez la directive ng-content pour afficher le text contenu entre les
  balises <app-exercice3-enfant></app-exercice3-enfant>
 
       
